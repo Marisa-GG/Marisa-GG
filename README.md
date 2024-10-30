@@ -46,21 +46,19 @@ Además, ¡me estoy formando como **Técnica Superior en Desarrollo de Aplicacio
 
 ## 💻 Stack tecnológico conocido, por conocer y preferencias 
 
-| **Stack Tecnológico Conocido** | **Stack Tecnológico del Curso**    | **Preferencias Tecnológicas**     |
-|---------------------------------|-----------------------------------|-----------------------------------|
-| HTML                            | Frameworks:                       | Bases de datos                    |
-| CSS                             | - React                           | Analista de datos                 |
-| JavaScript                      | Bases de datos:                   |                                   |
-| Git                             | - MongoDB                         |                                   |
-| VSCode                          | - Docker                          |                                   |
-| SQL                             | Control de versiones:             |                                   |
-| Python                          | - Github                          |                                   |
-|                                 | Software de colaboración:         |                                   |
-|                                 | - Trello                          |                                   |
-|                                 |Software de análisis predictivo:   |                                   |
-|                                 | - Power BI                        |                                   |
-
-
+| **Stack Tecnológico Conocido** | **Stack Tecnológico del Curso**            | **Preferencias Tecnológicas**     |
+|---------------------------------|-----------------------------------        |-----------------------------------|
+| HTML                            | Frameworks:  React                        | Bases de datos                    |
+| CSS                             | Bases de datos: MongoDB y Docker          | Analista de datos                 |
+| JavaScript                      | Control de versiones: Github              |                                   |
+| Git                             | Software de colaboración: Trello          |                                   |
+| VSCode                          | Software de análisis predictivo: Power BI |                                   |
+| SQL                             |                                           |                                   |
+| Python                          |                                           |                                   |
+|                                 |                                           |                                   |
+|                                 |                                           |                                   |
+|                                 |                                           |                                   |
+|                                 |                                           |                                   |
 
 ---
 
