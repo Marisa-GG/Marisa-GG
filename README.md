@@ -55,10 +55,7 @@ Además, ¡me estoy formando como **Técnica Superior en Desarrollo de Aplicacio
 | VSCode                          | Software de análisis predictivo: Power BI |                                   |
 | SQL                             |                                           |                                   |
 | Python                          |                                           |                                   |
-|                                 |                                           |                                   |
-|                                 |                                           |                                   |
-|                                 |                                           |                                   |
-|                                 |                                           |                                   |
+
 
 ---
 
