@@ -33,13 +33,13 @@ Además, ¡me estoy formando como **Técnica Superior en Desarrollo de Aplicacio
 ## 🚀 Objetivos y Pasión
 - 🌍 Mejorar la Seguridad Alimentaria y la Salud Pública.
 - 💡 Crear soluciones tecnológicas que optimicen procesos en el ámbito de la salud y la alimentación.
-- 👩‍💻 Desarrollar aplicaciones útiles y creativas que combinen mis conocimientos en **ciencia** y **tecnología**.
+- 👩‍💻 Desarrollar aplicaciones útiles y creativas que combinen mis conocimientos en **Ciencia y Tecnología de los alimentos**.
 
 ---
 
 ## 🛠️ Habilidades y Herramientas
 - **Veterinaria** 🩺
-- **Casi-Doctora en Tecnología de los Alimentos, Nutrición y Bromatología🥗📘** - Seguridad Alimentaria y Microgiología ** 🧪🍞
+- **Casi-Doctora en Tecnología de los Alimentos, Nutrición y Bromatología🥗📘** - Especialidad **Seguridad Alimentaria y Microbiología** 🧪🦠
 - **Formación Profesional de Grado Superior : técnico superior en Desarrollo de Aplicaciones Multiplataforma** 💻📱 (en proceso)
 
 ---
