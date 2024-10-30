@@ -46,8 +46,8 @@ Además, ¡me estoy formando como **Técnica Superior en Desarrollo de Aplicacio
 
 ## 💻 Stack tecnológico conocido, por conocer y preferencias 
 
-| **Stack Tecnológico Conocido** | **Stack Tecnológico del Curso**            | **Preferencias Tecnológicas**     |
-|---------------------------------|-----------------------------------        |-----------------------------------|
+| **Stack Tecnológico Conocido**  | **Stack Tecnológico del Curso**           | **Preferencias Tecnológicas**     |
+|---------------------------------|-------------------------------------------|-----------------------------------|
 | HTML                            | Frameworks:  React                        | Bases de datos                    |
 | CSS                             | Bases de datos: MongoDB y Docker          | Analista de datos                 |
 | JavaScript                      | Control de versiones: Github              |                                   |
